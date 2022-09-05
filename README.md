@@ -1,4 +1,4 @@
-# List to CNN
+# List to CNN Layers
 
 ## High level summary
 <p align="center">
