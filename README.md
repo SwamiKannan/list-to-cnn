@@ -1,5 +1,5 @@
 # List to CNN Layers
-
+The library takes a list of layer/ block (referred here as 'stack') parameters and number of times the layer / stack is to be repeated and returns a list of layers that can be directly passed to an nn.Sequential() constructor
 ## High level summary
 <p align="center">
     <img width="1024" src="template-to-model.jpg">
